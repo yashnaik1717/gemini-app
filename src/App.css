@@ -27,7 +27,7 @@
   box-shadow: 5px 5px 10px rgb(114, 140, 194);
   overflow: hidden;
   display: flex;
-  animation: myanimation 5s infinite;
+  animation: myanimation 3s infinite;
 }
 
 @keyframes myanimation{
